@@ -1,0 +1,237 @@
+[
+      {
+        "course_id": 1,
+        "college_id": 1,
+        "course_name": "Diploma in Civil Engineering",
+        "department": "Civil",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Focuses on construction technology, structural engineering, and infrastructure development."
+      },
+      {
+        "course_id": 2,
+        "college_id": 1,
+        "course_name": "Diploma in Mechanical Engineering",
+        "department": "Mechanical",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Covers the design, manufacturing, and maintenance of mechanical systems."
+      },
+      {
+        "course_id": 3,
+        "college_id": 1,
+        "course_name": "Diploma in Electrical Engineering",
+        "department": "Electrical",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Focuses on electrical systems, power generation, and electrical machinery."
+      },
+      {
+        "course_id": 4,
+        "college_id": 1,
+        "course_name": "Diploma in Electronics Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Covers electronics, communication systems, and embedded technologies."
+      },
+      {
+        "course_id": 5,
+        "college_id": 1,
+        "course_name": "Diploma in Computer Science & Engineering",
+        "department": "Computer Science",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Includes programming, data structures, and software engineering fundamentals."
+      },
+      {
+        "course_id": 1,
+        "college_id": 2,
+        "course_name": "Diploma in Civil Engineering",
+        "department": "Civil",
+        "duration": "3 years",
+        "eligibility": "10th pass or equivalent from a recognized board",
+        "description": "Focuses on construction technology, structural engineering, and infrastructure development."
+      },
+      {
+        "course_id": 2,
+        "college_id": 2,
+        "course_name": "Diploma in Mechanical Engineering",
+        "department": "Mechanical",
+        "duration": "3 years",
+        "eligibility": "10th pass or equivalent from a recognized board",
+        "description": "Covers the design, manufacturing, and maintenance of mechanical systems."
+      },
+      {
+        "course_id": 3,
+        "college_id": 2,
+        "course_name": "Diploma in Electrical Engineering",
+        "department": "Electrical",
+        "duration": "3 years",
+        "eligibility": "10th pass or equivalent from a recognized board",
+        "description": "Focuses on electrical systems, power generation, and electrical machinery."
+      },
+      {
+        "course_id": 4,
+        "college_id": 2,
+        "course_name": "Diploma in Electronics Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th pass or equivalent from a recognized board",
+        "description": "Covers electronics, communication systems, and embedded technologies."
+      },
+      {
+        "course_id": 1,
+        "college_id": 3,
+        "course_name": "Diploma in Robotics Engineering",
+        "department": "Robotics",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": " includes topics such as robotic mechanics, control systems, automation, sensors, and artificial intelligence."
+      },
+      {
+        "course_id": 2,
+        "college_id": 3,
+        "course_name": "Diploma in Cyber Forensics and Information Security ",
+        "department": "Cyber Forensics and Information Security",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "covers areas such as data protection, network security, cyber laws, ethical hacking, and forensic analysis of cyber crimes."
+      },
+      {
+     
+        "course_id": 3,
+        "college_id": 3,
+        "course_name": "Diploma in Computer Science & Engineering",
+        "department": "Computer Science",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Includes programming, data structures, and software engineering fundamentals."
+      },
+      {
+        "course_id": 4,
+        "college_id": 3,
+        "course_name": "Diploma in Electronics Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Covers digital electronics, communication systems, and embedded technologies."
+      },
+      {
+        "course_id": 1,
+        "college_id": 4,
+        "course_name": "Diploma in Chemical Engineering",
+        "department": "Chemical Engineering",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "The Diploma in Chemical Engineering program covers principles of chemical processes, reaction engineering, thermodynamics, and process control. Students gain knowledge in industrial chemistry, chemical safety, and plant operations."
+      },
+      {
+        "course_id": 2,
+        "college_id": 4,
+        "course_name": "Diploma in Electrical Engineering",
+        "department": "Electrical",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Covers topics like electrical circuits, power distribution, and machines."
+      },
+      {
+        "course_id": 3,
+        "college_id": 4,
+        "course_name": "Diploma in Civil Engineering",
+        "department": "Civil",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Focuses on construction technology, structural analysis, and material science."
+      },
+      {
+        "course_id": 4,
+        "college_id": 4,
+        "course_name": "Diploma in Computer Science Engineering",
+        "department": "Computer Science",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "Includes software development, data structures, and hardware systems."
+      },
+      {
+        "course_id": 5,
+        "college_id": 4,
+        "course_name": "Diploma in Electronics Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th pass with minimum 50% marks",
+        "description": "The Diploma in Electronics Engineering focuses on electronic circuits, digital electronics, communication systems, and embedded systems. The course includes practical training in electronics components, circuit design, and troubleshooting."
+      },
+      {
+        "course_id": 1,
+        "college_id": 5,
+        "course_name": "Diploma in Chemical Engineering",
+        "department": "Chemical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Focuses on chemical processes, reactions, and the design and operation of chemical plants."
+      },
+      {
+        "course_id": 2,
+        "college_id": 5,
+        "course_name": "Diploma in Electrical Engineering",
+        "department": "Electrical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Focuses on electrical systems, power generation, and electrical machinery."
+      },
+      {
+        "course_id": 3,
+        "college_id": 5,
+        "course_name": "Diploma in Electronics and Communication Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Covers electronics, communication systems, and embedded technologies."
+      },
+      {
+        "course_id": 4,
+        "college_id": 5,
+        "course_name": "Diploma in Mechanical Engineering",
+        "department": "Mechanical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Covers the design, manufacturing, and maintenance of mechanical systems."
+      },
+      {
+        "course_id": 1,
+        "college_id": 6,
+        "course_name": "Diploma in Chemical Engineering",
+        "department": "Chemical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Focuses on chemical processes, reactions, and the design and operation of chemical plants."
+    },
+    {
+        "course_id": 2,
+        "college_id": 6,
+        "course_name": "Diploma in Electrical Engineering",
+        "department": "Electrical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Focuses on electrical systems, power generation, and electrical machinery."
+    },
+    {
+        "course_id": 3,
+        "college_id": 6,
+        "course_name": "Diploma in Electronics and Communication Engineering",
+        "department": "Electronics",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Covers electronics, communication systems, and embedded technologies."
+    },
+    {
+        "course_id": 4,
+        "college_id": 6,
+        "course_name": "Diploma in Mechanical Engineering",
+        "department": "Mechanical",
+        "duration": "3 years",
+        "eligibility": "10th or 12th pass from a recognized board or university.",
+        "description": "Covers the design, manufacturing, and maintenance of mechanical systems."
+    }
+]

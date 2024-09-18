@@ -1,0 +1,11 @@
+[
+      {
+        "fee_id": 1,
+        "college_id": 1,
+        "course_id": 1,
+        "tuition_fee": 15000,
+        "hostel_fee": 30000,
+        "bus_fee": 8000,
+        "other_fees": 5000
+      }
+]

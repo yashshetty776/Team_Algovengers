@@ -1,0 +1,50 @@
+[
+    {
+      "campus_id": 1,
+      "college_id": 1,
+      "description": "Government Polytechnic College, Ajmer, established in 1958, is a premier technical education institute located in Rajasthan. It offers a range of diploma courses in engineering fields, fostering technical skills and practical knowledge.",
+      "infrastructure": "The campus is spread across 54 acres and includes modern amenities such as well-equipped laboratories, an extensive library, IT infrastructure, sports grounds, and auditoriums. Both boys' and girls' hostels are available with recreational and study areas.",
+      "campus_area": "54 acres",
+      "facilities": ["Boys Hostel", "Girls Hostel", "Library", "Sports Complex", "Cafeteria", "Auditorium", "Laboratories", "IT Infrastructure"]
+    },
+    {
+      "campus_id": 2,
+      "college_id": 2,
+      "description": "Government Polytechnic College, Alwar offers diploma courses in various engineering fields. It is known for its strong academic environment and industry-focused curriculum.",
+      "infrastructure": "TThe campus is spread across 46 acres and includes modern amenities such as modern classrooms, labs, workshops, a library, and cafeteria. The infrastructure is well-maintained to support technical education.",
+      "campus_area": "46 acres",
+      "facilities": ["Library", "Workshops", "laboratories", "Cafeteria", "Sports Facilities", "Wi-Fi", "Medical Facilities"]
+    },
+    {
+      "campus_id": 3,
+      "college_id": 3,
+      "description": "Government Polytechnic College Bagidora, Banswara offers diploma courses in various technical fields. The college aims to provide quality education with a focus on practical and industry-related skills.",
+      "infrastructure": "The college features modern labs, classrooms, workshops, and a library to support the academic needs of students.",
+      "campus_area": "Approx 5 acres",
+      "facilities": ["Library", "Workshops", "Hostel", "Canteen", "Sports Facilities", "Wi-Fi"]
+    },
+    {
+      "campus_id": "4",
+      "college_id": "4",
+      "description": "Government Polytechnic College, Baran established in the year 2010. It offers diploma courses in various engineering fields. It is located in a peaceful setting and aims to provide technical education to students from the region. The college focuses on building skills and knowledge through hands-on training and quality infrastructure.",
+      "infrastructure": "The college features modern classrooms, well-equipped labs, computer facilities, a library with technical books, and sports facilities. It also provides a hostel for students.The College administrations have purchased all necessary equipments in all the laboratories according to AICTE and Affiliated Board (BTER Jodhpur) syllabus.",
+      "campus_area": "10 acres",
+      "facilities": ["Library","Laboratories","Hostel","Sports grounds","Wi-Fi","Cafeteria","Auditorium"]
+    },
+    {
+      "campus_id": "5",
+      "college_id": "5",
+      "description": "Established in 1960, Government Polytechnic College, Bikaner is a leading institute offering diploma courses in engineering and technology. The college is focused on providing quality technical education to meet industry standards.",
+      "infrastructure": "The college features modern classrooms, well-equipped laboratories, workshops, and a library to support academic and practical learning.",
+      "campus_area": "45 acres",
+      "facilities": ["Library", "Laboratories", "Workshops", "Hostel", "Canteen", "Sports facilities", "gym"]
+    },
+    {
+      "campus_id": "6",
+      "college_id": "6",
+      "description": "Government Polytechnic College, Barmer established in the year1988.It offers diploma programs in various engineering disciplines aimed at providing technical education and skills to students. The institution focuses on practical and industry-relevant training.",
+      "infrastructure": "The campus is equipped with basic infrastructure including classrooms, laboratories, workshops, and a library to support technical education.",
+      "campus_area": "37 acres",
+      "facilities": ["Library", "Laboratories", "Workshops", "Hostel", "Canteen", "Playground", "Gym","Sports"]
+    }
+  ]

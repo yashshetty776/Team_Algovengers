@@ -1,0 +1,183 @@
+[
+    {
+      "placement_id": 1,
+      "college_id": 1,
+      "course_id": 1,
+      "year": 2023,
+      "recruiters": ["Tata Power Solar", "Asteria Aerospace Ltd., Banglore. Gurgaon. Haryana","JSW Steel Ltd., Maharastra","JCB India Ltd., Jaipur"],
+      "highest_package": 700000,
+      "average_package": 220000,
+      "placement_percentage":70
+    },
+    {
+      "placement_id": 2,
+      "college_id": 1,
+      "course_id": 2,
+      "year": 2023,
+      "recruiters": ["Birla White - UltraTech Cement Ltd.", "S. Chand Publications, Noida.","Sigma Electric Manufacturing Corp. Pvt. Ltd., Jaipur.","IT Job Fair: Mech yantra innovation Pvt. Ltd."],
+      "highest_package": 450000,
+      "average_package": 128000,
+      "placement_percentage":65
+    
+    },
+    {
+      "placement_id": 3,
+      "college_id": 1,
+      "course_id": 3,
+      "year": 2023,
+      "recruiters": ["Escorts Kubota Ltd., Faridabad.","Rajesh Motors (Raj.) Pvt. Ltd., Ajmer For JCB"],
+      "highest_package": 400000,
+      "average_package": 120000,
+      "placement_percentage":68
+    },
+    {
+      "placement_id": 4,
+      "college_id": 1,
+      "course_id": 4,
+      "year": 2023,
+      "recruiters": ["Shree Nath Packaging, Ajmer","REIL, Ajmer"],
+      "highest_package": 380000,
+      "average_package": 176000,
+      "placement_percentage":70
+    },
+    {
+      "placement_id": 4,
+      "college_id": 1,
+      "course_id": 4,
+      "year": 2023,
+      "recruiters": ["J K Tyre","Escorts Kubota Ltd., Faridabad"],
+      "highest_package": 210000,
+      "average_package": 480000,
+      "placement_percentage":65
+    },
+    { 
+      "placement_id": 1,
+      "college_id": 2,
+      "course_id": 1,
+      "year": 2022,
+      "recruiters": ["Hollister Medical India Private Limited"],
+      "highest_package": 10500,
+      "average_package": 10500,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 2,
+      "college_id": 2,
+      "course_id": 2,
+      "year": 2022,
+      "recruiters": ["Hero MotoCorp Ltd.","LARSEN & TOURBO LIMITED","Krishna Maruty Ltd."],
+      "highest_package": 320000,
+      "average_package": 320000,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 3,
+      "college_id": 2,
+      "course_id": 3,
+      "year": 2022,
+      "recruiters": ["Hollister Medical India Private Limited"],
+      "highest_package": 10500,
+      "average_package": 10500,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 4,
+      "college_id": 2,
+      "course_id": 4,
+      "year": 2022,
+      "recruiters": ["Hollister Medical India Private Limited"],
+      "highest_package": 10500,
+      "average_package": 10500,
+      "placement_percentage":0
+    },
+    { 
+      "placement_id": 1,
+      "college_id": 4,
+      "course_id": 3,
+      "year": 2014,
+      "recruiters": ["Magneti Marelli SKH Exhaust Systems Pvt Ltd","Subros Limited, Gaurgaon & Noida", "Motherson Sumi Systems Ltd"],
+      "highest_package": 200000,
+      "average_package": 80000,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 2,
+      "college_id": 4,
+      "course_id": 5,
+      "year": 2014,
+      "recruiters": ["HCL Services Ltd., Noida (UP)","Saint Gobain Glass India Limited, Bhiwadi"],
+      "highest_package": 200000,
+      "average_package": 90000,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 1,
+      "college_id": 5,
+      "course_id": 1,
+      "year": 2023,
+      "recruiters": ["Local Construction Firms", "Government Contractors"],
+      "highest_package": 500000,
+      "average_package": 300000,
+      "placement_percentage": 65
+    },
+    {
+      "placement_id": 2,
+      "college_id": 5,
+      "course_id": 2,
+      "year": 2023,
+      "recruiters": ["Power Distribution Companies", "Local Contractors"],
+      "highest_package": 550000,
+      "average_package": 320000,
+      "placement_percentage": 70
+    },
+    {
+      "placement_id": 3,
+      "college_id": 5,
+      "course_id": 4,
+      "year": 2023,
+      "recruiters": ["Manufacturing Firms", "Auto Workshops"],
+      "highest_package": 600000,
+      "average_package": 350000,
+      "placement_percentage":68
+    },
+    { 
+      "placement_id": 1,
+      "college_id": 6,
+      "course_id": 4,
+      "year": 2023,
+      "recruiters": ["BKT Tyres"],
+      "highest_package": 200000,
+      "average_package": 200000,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 2,
+      "college_id": 6,
+      "course_id": 1,
+      "year": 2023,
+      "recruiters": ["Larsen and Toubro Limited"],
+      "highest_package": 250000,
+      "average_package": 250000,
+      "placement_percentage":0
+    },
+    { 
+      "placement_id": 3,
+      "college_id": 6,
+      "course_id": 2,
+      "year": 2023,
+      "recruiters": ["Mu Sigma"],
+      "highest_package": 130000,
+      "average_package": 130000,
+      "placement_percentage":0
+    },
+    {
+      "placement_id": 4,
+      "college_id": 6,
+      "course_id": 3,
+      "year": 2023,
+      "recruiters": ["LG (electronics)"],
+      "highest_package": 290000,
+      "average_package": 290000,
+      "placement_percentage":0
+    }      
+  ]

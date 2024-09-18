@@ -1,0 +1,62 @@
+[
+      {
+        "college_id": 1,
+        "name": "Government Polytechnic College, Ajmer",
+        "address": "Makhupura, Nasirabad Road, Ajmer-305002",
+        "contact_info": {
+          "phone": "01452695195",
+          "email": "gpc.ajmer@rajasthan.gov.in"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcajmer"
+      },
+      {
+        "college_id": 2,
+        "name": "Government Polytechnic College, Alwar",
+        "address": "Near Itarana Flyover ,Alwar- 301001",
+        "contact_info": {
+            "phone": "0144-2701645",
+            "email": "gpc.alwar@gmail.com"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcalwar"
+      },
+      {
+        "college_id": 3,
+        "name": "Government Polytechnic College Bagidora, Banswara",
+        "address": "Village Katariya, PO Balawara, Tehsil Bagidora, District Banswara, Rajasthan 327603",
+        "contact_info": {
+            "phone": "9799512043",
+            "email": "gpc.bagidora@rajasthan.gov.in"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcbagidora"
+      },
+      {
+        "college_id": 4,
+        "name": "Government Polytechnic College, Baran",
+        "address": "NH-27, Village - Batawadi, Distt. - Baran (Raj.) PIN - 325205",
+        "contact_info": {
+            "phone": "0982938805",
+            "email": "gpc.baran@rajasthan.gov.in"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcbaran"
+      },
+      {
+        "college_id": 5,
+        "name": "Government Polytechnic College,Bikaner",
+        "address": "Old Shivbari Road, Sadul Ganj, Bikaner (Rajasthan) Pin:334003",
+        "contact_info": {
+            "phone": "+91 8290638007",
+            "email": "gpc.bikaner@rajasthan.gov.in"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcbikaner"
+      },
+      {
+        "college_id": 6,
+        "name": "Government Polytechnic College, Barmer",
+        "address": "NH-68, Jaisalmer Road, Barmer (Raj.) Pin code 344001",
+        "contact_info": {
+            "phone": "8290984810",
+            "email": "gpc.barmer@rajasthan.gov.in"
+        },
+        "website_url": "https://hte.rajasthan.gov.in/college/gpcbarmer"
+      }
+]
